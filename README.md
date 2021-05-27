@@ -1,1 +1,1 @@
-# Guia_Localidades
+ChatBot desenvolvido via DialogFlow (https://dialogflow.cloud.google.com/#) e Glitch (https://glitch.com/) para aula de Processamento de Linguagem Natural, utilizando a API Foursquare para indicar localidades.
